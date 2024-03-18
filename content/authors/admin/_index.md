@@ -46,7 +46,7 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Python-Pandas
         description: ''
         percent: 90
         icon: python
@@ -61,13 +61,18 @@ skills:
         percent: 50
         icon: database
         icon_pack: fas
+      - name: ArcGis
+        description: ''
+        percent: 80
+        icon: chart-line
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-hiking
         icon_pack: fas
       - name: Cats
@@ -77,7 +82,7 @@ skills:
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 100
         icon: camera-retro
         icon_pack: fas
 
@@ -86,24 +91,15 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+  - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.instagram.com/zhi_yv/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/ZhiYvXie
+  - icon: youtube
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.youtube.com/channel/UCP7H2VBKFWCpd_pM_KQ7RQw  
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -115,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-Xiang Xie is an undergraduate who graduated from the School of Traffic Engineering of Huaiyin Institute of Technology. Her research interests include trip characteristics analysis, ride connection demand calculation, and directional pedestrian prediction for complex systems. Under the guidance of Professor Sitao Hu, he set up a pedestrian appearance feature analysis team and designed a method to identify residents' rigid demand points by using POI data and resident OD data. At the same time, he combined POI data with shared bike track data to design a shared bike connection demand point identification model near POI points.
+Xiang Xie, an esteemed undergraduate alumnus of the School of Traffic Engineering at the Huaiyin Institute of Technology, has a profound interest in the intricate realm of trip characteristics analysis, ride connection demand calculation, and directional pedestrian prediction within complex systems. Mentored by the esteemed Professor Sitao Hu, he has established a pedestrian feature analysis team, developing an innovative methodology to pinpoint residents' rigid demand points through the meticulous utilization of POI data and resident OD data. Additionally, Xiang Xie has merged POI data with shared bike track data, pioneering a cutting-edge shared bike connection demand point identification model in proximity to POI points. His meticulous research and innovative approach have been highly regarded in the field of transportation engineering.
 {style="text-align: justify;"}
