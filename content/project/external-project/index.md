@@ -1,14 +1,15 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Energy Consumption Investigation and Improvement Strategies of Urban Bus Stop Advertising Light Boxes
+summary:  By conducting sampling surveys and analysis on advertising light boxes at bus stops, this study utilized ArcGIS professional software to classify the station data, calculate the total energy consumption of the advertising light boxes at bus stops, and proposed optimization strategies for the energy consumption of advertising light boxes at bus stops.
 tags:
-  - Demo
-date: "2016-04-27T00:00:00Z"
+  - Energy consumption quota
+
+date: "2023-03-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: 
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
+  caption: 
+  focal_point:
 ---
