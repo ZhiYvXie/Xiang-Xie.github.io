@@ -65,7 +65,7 @@ sections:
         - title: Network manager (To C)
           company: S.F. Express Company
           company_url: 'https://www.sf-express.com/chn/sc'
-          company_logo: org-SF
+          company_logo: org-GC
           location: Suzhou
           date_start: '2024-04-01'
           date_end: 'Present'
@@ -77,7 +77,7 @@ sections:
         - title: Internship program
           company: JD Company
           company_url: 'https://ir.jd.com/index.php/zh-hans/node?page=1'
-          company_logo: org-JD
+          company_logo: org-X
           location: Huaian
           date_start: '2023-11-01'
           date_end: '2023-12-01'
