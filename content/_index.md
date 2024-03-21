@@ -68,7 +68,7 @@ sections:
           company_logo: org-gc
           location: Suzhou
           date_start: '2024-04-01'
-          date_end: 'Present'
+          date_end: '2025-03-01'
           description: |2-
               Responsibilities include:
 
