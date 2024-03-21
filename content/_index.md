@@ -62,27 +62,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Network manager (To C)
+          company: S.F. Express Company
+          company_url: 'https://www.sf-express.com/chn/sc'
+          company_logo: org-SF
+          location: Suzhou
+          date_start: '2024-04-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Plan the outlet's regional coverage, personnel resources to achieve business objectives
+              * Maintain public relations in the outlet's region to foster a positive social and brand image
+        - title: Internship program
+          company: JD Company
+          company_url: 'https://ir.jd.com/index.php/zh-hans/node?page=1'
+          company_logo: org-JD
+          location: Huaian
+          date_start: '2023-11-01'
+          date_end: '2023-12-01'
+          description: Gaining a deep understanding of JD Logistics' shipment logic, operating system, and utilization of technological advancements involves familiarizing oneself with the overall operational flow of JD Logistics, as well as acquiring and mastering relevant logistics knowledge and skills.
     design:
       columns: '2'
   - block: accomplishments
