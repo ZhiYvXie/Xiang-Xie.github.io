@@ -68,7 +68,7 @@ sections:
           company_logo: org-SF
           location: Suzhou
           date_start: '2024-04-01'
-          date_end: ''
+          date_end: 'Present'
           description: |2-
               Responsibilities include:
 
